@@ -1,0 +1,5 @@
+• Consistency: Ensures that the software environment remains stable throughout the development lifecycle.  
+• Traceability: Allows developers to track every change, knowing who made it, when, and why.  
+• Integrity: Protects the project from unauthorized or accidental changes that could break the code.  
+• Conflict Prevention: Helps team members work on the same project without overwriting each other's work.  
+• Systematic Change: Provides a structured process for managing updates and new features. 
